@@ -11,7 +11,7 @@ loop = asyncio.get_event_loop()
 
 @app.on_message(filters.command(["start","help","ping"]))
 async def start(bot, message: Message):
-  return await message.reply_text("Yo, {} It's Me **The Pirate Hunter...**[Roronoa Zoro](https://te.legra.ph/file/50731236ce8f4c5a0558d.mp4) This Side\n\n**My Owner 👀**: **@Vedant_vn** \n**Bot Support 🤖**: **@NarutoRobot_Support** \n**Auto Anime Channel**: **@Auto_Anime**")
+  return await message.reply_text("Yo, It's Me **The Pirate Hunter...**[Roronoa Zoro](https://te.legra.ph/file/50731236ce8f4c5a0558d.mp4) This Side\n\n**My Owner 👀**: **@Vedant_vn** \n**Bot Support 🤖**: **@NarutoRobot_Support** \n**Auto Anime Channel**: **@Auto_Anime**")
 
 async def start_bot():
   print("==================================")
