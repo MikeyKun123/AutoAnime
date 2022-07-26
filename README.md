@@ -63,4 +63,4 @@
 * [TechShreyash](https://github.com/TechShreyash)
 * [Anshul Garg](https://github.com/AuraMoon55)
 
-## Edited Repo Credits : [Vedant Vn](https://github.com/Vedant-VN)
+### Edited Repo Credits : [Vedant Vn](https://github.com/Vedant-VN)
