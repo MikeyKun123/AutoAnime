@@ -47,7 +47,7 @@
 <hr>
 
 ### 📤 Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/Vedant-VN/SigmaAutoAnime/tree/heroku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Vedant-VN/SigmaAutoAnime"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <hr>
 
