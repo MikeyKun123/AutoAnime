@@ -80,9 +80,9 @@ def tags_generator(title):
 
 async def status_text(text):
     stat = """
-⭐️ **Status :** {}
+⚡ **Currently Zoro is** {}
 
-⏳ **Queue :** 
+♻ **Pending Work - Queue :** 
 
 {}
 """
@@ -92,7 +92,7 @@ async def status_text(text):
         queue_text += "📌 " + i["title"].replace(".mkv","").replace(".mp4","").strip() + "\n"
 
     if queue_text == "":
-        queue_text = "❌ Empty"
+        queue_text = "❌ List Is Empty"
         
     return stat.format(
         text,
